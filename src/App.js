@@ -1,11 +1,11 @@
 
-import Header from './components/Header'
+import Body from './components/Body'
 import './Apps.scss'
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Body/>
     </div>
   );
 }
