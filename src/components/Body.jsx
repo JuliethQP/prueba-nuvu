@@ -21,10 +21,10 @@ export default function Header() {
       </div>
       <div className="row">
         <div className="column">
-          <img src="./img/travel.svg" alt="travel"></img>
+          <img src="./img/travel.svg" alt="travel"/>
         </div>
         <div className="column">
-          <img src="./img/mack.svg" alt="mack"></img>
+          <img src="./img/mack.svg" alt="mack"/>
         </div>
       </div>
       <div className="container-portafolio">
