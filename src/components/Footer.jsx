@@ -4,7 +4,7 @@ export default function Footer() {
   return (
 
     <div className="footer-icons">
-      <img className="circle-blue" src="./img/circle.svg" alt="circle"/>
+      <img className="blue-circle" src="./img/circle.svg" alt="circle"/>
       <div className='footer-columns'>
         <div className='row-footer'>
           <div className='column-footer'>
